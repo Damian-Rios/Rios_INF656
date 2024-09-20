@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Clean Room",
+    "description": "Dust, sweep, and mop",
+    "status": "completed"
+  },
+  {
+    "title": "Buy Groceries",
+    "description": "get milk and eggs",
+    "status": "completed"
+  },
+  {
+    "title": "Walk the dog",
+    "description": "take dog to park",
+    "status": "not completed"
+  }
+]

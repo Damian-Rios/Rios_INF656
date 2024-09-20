@@ -1,0 +1,14 @@
+{
+  "name": "taskmanager",
+  "version": "1.0.0",
+  "description": "A Node.js command-line app to manage tasks with async file handling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damian Rios",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
