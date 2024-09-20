@@ -28,9 +28,9 @@ This is a simple Node.js application designed to manage a list of tasks. The app
    ```
 
 3. Install the required packages (if applicable):
-```bash
-npm install
-```
+    ```bash
+    npm install
+    ```
 
 ### Usage
 Run the application and follow the prompts in the command line.
